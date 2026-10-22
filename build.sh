@@ -1,1 +1,1 @@
-gcc -o build/app.out ppmcodec.c
+gcc ppmcodec.c -o build/codec
