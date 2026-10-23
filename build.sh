@@ -1,1 +1,3 @@
-gcc ppmcodec.c -o build/codec
+mkdir build
+gcc ppmcodec.c -o build/codec -g
+
